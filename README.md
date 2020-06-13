@@ -72,12 +72,13 @@ The game continues until there are no police (abolition), no protestors (return 
 
 ## Scoring
 There are two axes for calculating clout, resulting in four different win conditions
-				     ↑ 
-property values	←-+-→
-				     ↓
-		            consciousness
 
-High Property Values, Low Public Consciousness: DBA win
-Low Property Values, High Pubic Consciousness: Antifa win
-High Property Values, High Consciousness: BLM win
-Low Property Values, Low Consciousness: Trolls win
+       ↑ 
+    ←- + -→  property values					     
+       ↓
+         Public Consciousness
+
+- High Property Values, Low Public Consciousness: DBA win
+- Low Property Values, High Pubic Consciousness: Antifa win
+- High Property Values, High Consciousness: BLM win
+- Low Property Values, Low Consciousness: Trolls win
