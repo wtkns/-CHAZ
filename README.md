@@ -1,7 +1,7 @@
 # #CHAZ 
 Boardgame for 1-4 players
 
-asymmetrical gameplay, players each choose one of four factions  
+asymmetrical gameplay, players each secretly choose one of four factions:  
 1. Black Lives Matter
 2. Antifa
 3. Downtown Business Association
@@ -9,10 +9,26 @@ asymmetrical gameplay, players each choose one of four factions
 
 ## Setup
 Each player chooses one of the following  "leaders" as their personification;
-each leader having special rules and unique secret objectives for accumulating "Clout" depending on their faction.
+Each leader having special rules and unique secret objectives for accumulating "Clout" depending on their faction.
 
-Omari Salisbury, Jenny Durkan, Nikkita Oliver, Raz Simone, Carmen Best, Ijeoma Oluo, Michael Solan, Dave Segal,
-Kshama Sawant, Andy Ngo, @Spekulation, Tim Eyman, Gavin McInnes, Jason Rantz, Dan Savage, the unnamed cow, @anonymous, Jeff Bezos, 
+Omari Salisbury: can place a livestreamer in any one location in every round,
+Jenny Durkan: can remove all police from one location once per game
+Nikkita Oliver: can play a press conference in any location, deescalating rioters into peaceful protestors
+Raz Simone: starts the game with two "woke militia" tokens
+Carmen Best: has unlimited supply of tear gas unless
+Ijeoma Oluo: can issue a statement converting nimby neighbors in one location into woke allies for one round 
+Michael Solan: can play a "Police Escalate" card in any one location in each round 
+Kshama Sawant: can play a "Protest March" and move all protestors from one location to an adjacent location 
+Andy Ngo: can turn one police in any location with woke militia into a bastard cops
+@Spekulation: starts the game with one free "Fact Check", to cancel the rules from one tweet 
+Tim Eyman: can convert Woke Neighbors in one location to NIMBY
+Gavin McInnes: starts the game with two "agent provocateur" tokens
+Jason Rantz: can deadmedia broadcast from any one location in every round
+Dan Savage: can add 3 woke neighbors to The Cuff each round
+the unnamed cow: starts the game with unlimited milk (anti cs gas)
+@anonymous: on their turn can cherry-pick that rounds tweet from the tweetdeck 
+Jeff Bezos: can add 3 NIMBY brogrammers per round to Sunset Apartment (as long as there is no property damage)
+Marcus Henderson: starts the game with an unlimited supply of seeds
 
 ## Phases of Play
 ### tweetstorm
@@ -22,10 +38,11 @@ Each round begins with a tweetstorm phase, players draw a card from the tweet de
 After the Tweetstorm, during "fundraising" phase, players collect 'likes' which are assigned based on a table for their faction and the categories of population in specific locations. 
 
 Population tokens represent different numbers of likes, depending on which side of the token is showing:
- - police/woke militia,   
- - protestors/rioters,   
- - liberals/progressives,  
+ - Police/bastard cop,   
+ - Protestors/rioter,   
+ - NIMBY/Woke Neighbors,  
  - dead-media/live-streamers
+
 
 During the fundraising phase: 
 1. blm and dba faction players receive one like for each protestor at a location, but each protestor is worth two likes if there is a live-streamer present
@@ -51,7 +68,14 @@ During the "Organizing" phase, Action cards are drawn and can be played on a loc
 7. rancho bravo
 8. hollow earth radio
 9. Vermillion
-...
+10. Doghouse Leather
+11. Central Co-Op
+12. Velocity Dance
+13. Caffe Vita
+14. blick art Supplies
+15. fire station
+16. cupcakes
+17. ...
 
 #### Alliances
 Alliances allow any two players to combine their resources to playing one action. If another player plays an "expose" action card on an action made possible by an alliance, populations in a given location may have their alignment changed according to the rules on the expose card. 
