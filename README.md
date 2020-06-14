@@ -80,7 +80,7 @@ During the "Organizing" phase, Action cards are drawn and can be played on a loc
 #### Alliances
 Alliances allow any two players to combine their resources to playing one action. If another player plays an "expose" action card on an action made possible by an alliance, populations in a given location may have their alignment changed according to the rules on the expose card. 
 #### Chaos
-If a "Chaos" card is drawn from the action deck by any player, it must be played immediately. "Chaos" cards include "Active Shooter", "Puppies!", "Umbrella Storm", "Learn-in", "Picnic", "Covid Outbreak"  
+If a "Chaos" card is drawn from the action deck by any player, it must be played immediately. "Chaos" cards include "Active Shooter", "Puppies!", "Pink Umbrella Storm", "Learn-in", "Picnic", "Covid Outbreak"  
 
 ### Protest
 During the "protest" phase, the following population tokens on the board are moved, multiplied, changed state, or removed from the board based on the Actions played during the organizing phase. Each population can have state change when "affected" making them worth a different balance of consciousness  and property damage at the end of each round, 
