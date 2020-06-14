@@ -11,24 +11,24 @@ asymmetrical gameplay, players each secretly choose one of four factions:
 Each player chooses one of the following  "leaders" as their personification;
 Each leader having special rules and unique secret objectives for accumulating "Clout" depending on their faction.
 
-Omari Salisbury: can place a livestreamer in any one location in every round,
-Jenny Durkan: can remove all police from one location once per game
-Nikkita Oliver: can play a press conference in any location, deescalating rioters into peaceful protestors
-Raz Simone: starts the game with two "woke militia" tokens
-Carmen Best: has unlimited supply of tear gas unless
-Ijeoma Oluo: can issue a statement converting nimby neighbors in one location into woke allies for one round 
-Michael Solan: can play a "Police Escalate" card in any one location in each round 
-Kshama Sawant: can play a "Protest March" and move all protestors from one location to an adjacent location 
-Andy Ngo: can turn one police in any location with woke militia into a bastard cops
-@Spekulation: starts the game with one free "Fact Check", to cancel the rules from one tweet 
-Tim Eyman: can convert Woke Neighbors in one location to NIMBY
-Gavin McInnes: starts the game with two "agent provocateur" tokens
-Jason Rantz: can deadmedia broadcast from any one location in every round
-Dan Savage: can add 3 woke neighbors to The Cuff each round
-the unnamed cow: starts the game with unlimited milk (anti cs gas)
-@anonymous: on their turn can cherry-pick that rounds tweet from the tweetdeck 
-Jeff Bezos: can add 3 NIMBY brogrammers per round to Sunset Apartment (as long as there is no property damage)
-Marcus Henderson: starts the game with an unlimited supply of seeds
+ - Omari Salisbury: can place a livestreamer in any one location in every round,
+ - Jenny Durkan: can remove all police from one location once per game
+ - Nikkita Oliver: can play a press conference in any location, deescalating rioters into peaceful protestors
+ - Raz Simone: starts the game with two "woke militia" tokens
+ - Carmen Best: has unlimited supply of tear gas unless
+ - Ijeoma Oluo: can issue a statement converting nimby neighbors in one location into woke allies for one round 
+ - Michael Solan: can play a "Police Escalate" card in any one location in each round 
+ - Kshama Sawant: can play a "Protest March" and move all protestors from one location to an adjacent location 
+ - Andy Ngo: can turn one police in any location with woke militia into a bastard cop
+ - @Spekulation: starts the game with one free "Fact Check", to cancel the rules from one tweet 
+ - Tim Eyman: can convert Woke Neighbors in one location to NIMBY
+ - Gavin McInnes: starts the game with two "agent provocateur" tokens
+ - Jason Rantz: can deadmedia broadcast from any one location in every round
+ - Dan Savage: can add 3 woke neighbors to The Cuff each round
+ - the unnamed cow: starts the game with unlimited milk (anti cs gas)
+ - @anonymous: on their turn can cherry-pick that rounds tweet from the tweetdeck 
+ - Jeff Bezos: can add 3 NIMBY brogrammers per round to Sunset Apartment (as long as there is no property damage)
+ - Marcus Henderson: starts the game with an unlimited supply of seeds
 
 ## Phases of Play
 ### tweetstorm
